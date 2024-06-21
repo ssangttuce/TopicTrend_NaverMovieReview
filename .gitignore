@@ -102,3 +102,7 @@ desktop.ini
 
 venv/
 env/
+
+share/
+bin/
+lib/
